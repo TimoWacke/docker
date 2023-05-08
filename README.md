@@ -2,8 +2,8 @@
 
 This will use
 
-JAVA/Kotlin with Spring framework for API Service
+<b>JAVA/Kotlin with Spring framework for API Service</b>
 
 and will be hosted through a 
 
-Docker enviroment
+<b>Docker enviroment</b>
